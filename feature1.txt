@@ -1,7 +1,3 @@
 This is a new feature.
 
-More changes that are good
-
-added some messy code.
-
-
+More changes that are good.
